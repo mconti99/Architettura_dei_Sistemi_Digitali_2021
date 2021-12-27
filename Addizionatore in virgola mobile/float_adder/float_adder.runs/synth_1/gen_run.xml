@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1639838924">
+  <File Type="PA-TCL" Name="Float_Adder_On_Board.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="Float_Adder_On_Board_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="Float_Adder_On_Board_reports.tcl"/>
+  <File Type="RDS-RDS" Name="Float_Adder_On_Board.vds"/>
+  <File Type="RDS-UTIL" Name="Float_Adder_On_Board_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="Float_Adder_On_Board_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="Float_Adder_On_Board.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="Float_Adder_On_Board_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="Float_Adder_On_Board_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ControlUnit.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Display.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RomOnDisplay/RomOnDisplay.srcs/sources_1/new/Display.vhd"/>
+        <Attr Name="ImportTime" Val="1636995900"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/registro.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ripple_carry_adder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/abs_value.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/shift_register.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/converter.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/UnitaOperativa.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/FloatAdder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/anodes_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RomOnDisplay/RomOnDisplay.srcs/sources_1/new/anodes_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1636991060"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/cathodes_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RomOnDisplay/RomOnDisplay.srcs/sources_1/new/cathodes_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1636993860"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/clock_filter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RomOnDisplay/RomOnDisplay.srcs/sources_1/new/clock_filter.vhd"/>
+        <Attr Name="ImportTime" Val="1636988624"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/counter_mod8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RomOnDisplay/RomOnDisplay.srcs/sources_1/new/counter_mod8.vhd"/>
+        <Attr Name="ImportTime" Val="1636989529"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/full_adder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Float_Adder_On_Board.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Float_Adder_On_Board"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/digilent-xdc-master/Nexys-A7-100T-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../digilent-xdc-master/Nexys-A7-100T-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1628606177"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

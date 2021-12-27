@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../switch_multistadio.srcs/sources_1/new/Demux.vhd" \
+"../../../../switch_multistadio.srcs/sources_1/new/Mux.vhd" \
+"../../../../switch_multistadio.srcs/sources_1/new/Switch.vhd" \
+"../../../../switch_multistadio.srcs/sim_1/new/Switch_TB.vhd" \
+
+# Do not sort compile order
+nosort

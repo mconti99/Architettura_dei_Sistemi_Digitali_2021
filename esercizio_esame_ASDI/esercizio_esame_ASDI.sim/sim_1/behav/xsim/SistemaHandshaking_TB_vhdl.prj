@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/0_check.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/ControlUnit_A.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/ControlUnit_B.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/Multiplexer.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/NodoA.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/NodoB.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/ROM.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/counter.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/OperativeUnit_A.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/OperativeUnit_B.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/SistemaHandshaking.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/comparatore.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/full_adder.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/memory.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/registro.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sources_1/new/sommatore.vhd" \
+"../../../../esercizio_esame_ASDI.srcs/sim_1/new/SistemaHandshaking_TB.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,1 @@
+-wto "44bd3f913d624c1aa25ff1023d69e138" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "PriorityEncoder_TB_behav" "xil_defaultlib.PriorityEncoder_TB" -log "elaborate.log" 
