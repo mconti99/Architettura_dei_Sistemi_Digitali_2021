@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Cronometro/Cronometro.srcs/sources_1/new/counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Cronometro/Cronometro.srcs/sources_1/new/orologio.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'orologio'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Cronometro/Cronometro.srcs/sim_1/new/orologio_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'orologio_TB'

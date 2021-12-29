@@ -1,0 +1,24 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sim_1/new/SistemaHandshaking_TB.vhd,1640772785,vhdl,,,,sistemahandshaking_tb,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/ButtonDebouncer.vhd,1640771678,vhdl,,,,buttondebouncer,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/ControlUnit_A.vhd,1640771588,vhdl,,,,controlunit_a,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/ControlUnit_B.vhd,1640771710,vhdl,,,,controlunit_b,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/Datapath_A.vhd,1640771615,vhdl,,,,datapath_a,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/Datapath_B.vhd,1640772944,vhdl,,,,datapath_b,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/Memory.vhd,1640771738,vhdl,,,,memory,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/Multiplexer.vhd,1640772912,vhdl,,,,multiplexer,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/NodoA.vhd,1640771573,vhdl,,,,nodoa,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/NodoB.vhd,1640771659,vhdl,,,,nodob,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/ROM.vhd,1640771629,vhdl,,,,rom,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/SistemaHandshaking.vhd,1640771557,vhdl,,,,sistemahandshaking,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/adder.vhd,1640771723,vhdl,,,,adder,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/anodes_manager.vhd,1640771774,vhdl,,,,anodes_manager,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/cathodes_manager.vhd,1640771788,vhdl,,,,cathodes_manager,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/clock_filter.vhd,1640771799,vhdl,,,,clock_filter,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/counter.vhd,1640771868,vhdl,,,,counter,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/counter_mod8.vhd,1640771812,vhdl,,,,counter_mod8,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/display_seven_segments.vhd,1640771822,vhdl,,,,display_seven_segments,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/Comunicazione con handshaking/ComunicazioneConHandshaking/ComunicazioneConHandshaking.srcs/sources_1/new/registro.vhd,1640771644,vhdl,,,,registro,,,,,,,,
