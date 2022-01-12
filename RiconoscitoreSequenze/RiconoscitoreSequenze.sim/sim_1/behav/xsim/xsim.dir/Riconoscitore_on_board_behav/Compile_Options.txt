@@ -1,0 +1,1 @@
+-wto "3b5d2f23d07d407fb1d6dd37f7d249a4" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Riconoscitore_on_board_behav" "xil_defaultlib.Riconoscitore_on_board" -log "elaborate.log" 

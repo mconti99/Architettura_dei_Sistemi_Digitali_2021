@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ShiftRegister_Structural.srcs/sources_1/new/ButtonDebouncer.vhd" \
+"../../../../ShiftRegister_Structural.srcs/sources_1/new/Mux2_1.vhd" \
+"../../../../ShiftRegister_Structural.srcs/sources_1/new/Mux4_1.vhd" \
+"../../../../ShiftRegister_Structural.srcs/sources_1/new/ff_d.vhd" \
+"../../../../ShiftRegister_Structural.srcs/sources_1/new/variable_shift_register.vhd" \
+"../../../../ShiftRegister_Structural.srcs/sources_1/new/ShiftRegisterOnBoard.vhd" \
+
+# Do not sort compile order
+nosort

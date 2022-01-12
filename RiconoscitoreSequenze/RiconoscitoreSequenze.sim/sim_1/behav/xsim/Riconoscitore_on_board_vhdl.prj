@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../RiconoscitoreSequenze.srcs/sources_1/new/ButtonDebouncer.vhd" \
+"../../../../RiconoscitoreSequenze.srcs/sources_1/new/Riconoscitore.vhd" \
+"../../../../RiconoscitoreSequenze.srcs/sources_1/new/Riconoscitore_On_Board.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/ButtonDebouncer.vhd,1642008023,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/TestingSystemOnBoard.vhd,,,buttondebouncer,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/ControlUnit.vhd,1642008034,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/TestingSystemOnBoard.vhd,,,controlunit,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/MacchinaCombinatoria.vhd,1642008069,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/OperatingUnit.vhd,,,macchinacombinatoria,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/Memory.vhd,1642007997,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/OperatingUnit.vhd,,,memory,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/OperatingUnit.vhd,1642008051,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/TestingSystemOnBoard.vhd,,,operatingunit,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/ROM.vhd,1642008010,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/OperatingUnit.vhd,,,rom,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/TestingSystemOnBoard.vhd,1642007982,vhdl,,,,testingsystemonboard,,,,,,,,
+C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/counter.vhd,1642008080,vhdl,C:/Users/itama/Documents/Architettura_dei_Sistemi_Digitali_2021/SistemaTesting/SistemaTesting.srcs/sources_1/new/OperatingUnit.vhd,,,counter,,,,,,,,
