@@ -1,1 +1,0 @@
--wto "40a050ada68b47029dc7ad56f06efa20" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "FloatAdder_TB_behav" "xil_defaultlib.FloatAdder_TB" -log "elaborate.log" 
